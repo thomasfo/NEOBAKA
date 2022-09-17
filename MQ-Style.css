@@ -366,9 +366,9 @@ div.subs p {
 
 .card {
   /*border: solid #000;*/
-  border-width: 0.25rem 0.25rem 0.25rem 0.25rem;
+  /*border-width: 0.25rem 0.25rem 0.25rem 0.25rem;*/
   border-radius: 1rem;
-  box-shadow: 3px 3px #000;
+  box-shadow: 5px 5px #000;
   height: 60vh;
   width: auto;
 }
